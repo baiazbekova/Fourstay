@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-22T19:20:32Z" name="Default suite" finished-at="2019-01-22T19:21:58Z" duration-ms="86327">
+    <groups>
+    </groups>
+    <test started-at="2019-01-22T19:20:32Z" name="Default test" finished-at="2019-01-22T19:21:58Z" duration-ms="86327">
+      <class name="com.fourstay.tests.fourstayTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fourstay.tests.fourstayTestCases@65b3f4a4]" started-at="2019-01-22T19:20:32Z" name="setUp" finished-at="2019-01-22T19:21:47Z" duration-ms="75020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fourstay.tests.fourstayTestCases@65b3f4a4]" started-at="2019-01-22T19:21:47Z" name="setUp" finished-at="2019-01-22T19:21:48Z" duration-ms="1674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigateToWebsite()[pri:0, instance:com.fourstay.tests.fourstayTestCases@65b3f4a4]" started-at="2019-01-22T19:21:48Z" name="navigateToWebsite" finished-at="2019-01-22T19:21:58Z" duration-ms="9405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToWebsite -->
+        <test-method is-config="true" signature="closeUp()[pri:0, instance:com.fourstay.tests.fourstayTestCases@65b3f4a4]" started-at="2019-01-22T19:21:58Z" name="closeUp" finished-at="2019-01-22T19:21:58Z" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUp -->
+      </class> <!-- com.fourstay.tests.fourstayTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
